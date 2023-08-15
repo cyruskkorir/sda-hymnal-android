@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/copy_button"
+        android:icon="@drawable/copy"
+        android:title="@string/copy"/>
+    <item android:id="@+id/share_button"
+        android:icon="@drawable/share"
+        android:title="@string/share"/>
+    <item android:id="@+id/like_button"
+        android:icon="@drawable/favorite"
+        android:title="@string/like"/>
+
+</menu>
+
+
+
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<menu xmlns:android="http:// schemas.android.com/apk/res/android">-->
+<!--<item android:id="@+id/mail"-->
+<!--    android:icon="@drawable/ic_mail"-->
+<!--    android:title="@string/mail" />-->
+<!--<item android:id="@+id/upload"-->
+<!--    android:icon="@drawable/ic_upload"-->
+<!--    android:title="@string/upload"-->
+<!--    android:showAsAction="ifRoom" />-->
+<!--<item android:id="@+id/share"-->
+<!--    android:icon="@drawable/ic_share"-->
+<!--    android:title="@string/share" />-->
+<!--</menu>-->

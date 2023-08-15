@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SDA Hymnal</string>
+    <string name="enter_number">Enter Number or Name</string>
+    <string name="search">search</string>
+    <string name="hymns">Hymns</string>
+    <string name="favourites">Favourites</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+</resources>
